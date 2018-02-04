@@ -1,4 +1,4 @@
-# Polling App - Using node.js, Pusher Framework, MONGO DB, Vanilla JS, Materialized CSS
+# Real-time Polling App - Using node.js, Pusher Framework, MONGO DB, Vanilla JS, Materialized CSS
 - NODE.JS is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world. 
 
 - Mongo DB: No-SQL DB
@@ -45,3 +45,5 @@
 - node.js: https://nodejs.org
 - mlab: https://mlab.com/
 - mongodb: https://www.mongodb.com/ 
+
+<img src="https://github.com/MohammedDeveloper/real-time-poll-app/blob/master/demo.PNG" />
